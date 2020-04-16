@@ -37,7 +37,7 @@
 > git commit -m "자기소개 - 이름" 
 > git push -u origin master
 > </pre>
-> 4. 자신의 repository에서 팀장의 repository로 pull requeset 날리기
+> 4. 자신의 repository에서 팀장의 repository로 pull request 날리기
 > 5. 카톡방에 팀장에게 알리기
 
 #### 2. notion 가입 후 개인 블로그를 만들어주세요!(자기소개 페이지 만들고 introduction.md에 링크 걸기)
