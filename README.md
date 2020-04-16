@@ -1,11 +1,22 @@
 🦁멋쟁이사자처럼 8기 at 상명대학교🦁 과제 제출방📖
 =================================
 
+
 주의사항
 -----
 > push 할 때 카톡방에 push 한다고 올린 후 보내주세요!  
 > (동시에 같은 곳을 수정하면 충돌할 수 있습니다.)  
 > 수정 전에 git pull upstream master 꼭 해주세요!  
+
+👓다른 팀 과제방 구경하기👓  
+----------
+[지훈팀](https://github.com/kkangjee/likelion8_github_assignment)
+[승재팀](https://github.com/msj0319/likelion8_github_assignment)
+[교준팀](https://github.com/jkjan/Quentin)
+[수환팀](https://github.com/ys012313/likelion8_github_assignment)
+[도원팀](https://github.com/devdw98/likelion8th_assignment)
+[예은팀](https://github.com/KimYeeun99/Likelion_hw)
+[정인팀](https://github.com/jeongiin/LikelionAssignment)
 
 과제
 ----
