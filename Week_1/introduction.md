@@ -14,12 +14,14 @@
 <img src="https://user-images.githubusercontent.com/48977911/79438933-28776700-800f-11ea-99fb-81e6fed5cedf.gif" width="10%">
 
 GITHUB : [@devdw98](https://github.com/devdw98)  
+NOTION introduction :  
 LIKE : 산책하기🏃‍♀️, 사람들 만나기🍻, 곱창, 닭발  
 DISLIKE : 가지볶음🍆
 
 ---------------------
 ### 박수진  
 GITHUB :  
+NOTION introduction :  
 LIKE :  
 DISLIKE :  
 각오 :  
@@ -27,6 +29,7 @@ DISLIKE :
 ---------------
 ### 백지영  
 GITHUB :  
+NOTION introduction :  
 LIKE :  
 DISLIKE :  
 각오 :  
