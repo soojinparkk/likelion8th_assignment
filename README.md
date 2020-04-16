@@ -20,7 +20,7 @@
 > git remote add upstream 팀장 repository 주소
 > git remote -v 친 후 정상적으로 주소가 등록되었는지 확인하기
 > </pre>
-> 3. introduction.md 파일 수정 후 자신의 repository 에 push 하기
+> 3. week1_introduction.md 파일 수정 후 자신의 repository 에 push 하기
 > <pre>
 > git add .
 > git commit -m "자기소개 - 이름" 
