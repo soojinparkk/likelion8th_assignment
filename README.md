@@ -1,4 +1,4 @@
-🦁멋쟁이사자처럼 8기 at 상명대학교 과제 제출방📖
+🦁멋쟁이사자처럼 8기 at 상명대학교🦁 과제 제출방📖
 =================================
 
 주의사항
@@ -10,15 +10,15 @@
 과제
 ----
 
-## 1주차 (4/15 ~ 4/22)  
-### 마크다운으로 자기소개를 작성해주세요  
+### 1주차 (4/15 ~ 4/22)  
+#### 마크다운으로 자기소개를 작성해주세요! (git 강의 1:13:48 부터 참고)
 
 > 1. 팀장 repository를 자신의 저장소로 fork 뜨기
 > 2. 컴퓨터에 repository clone 하기
 > <pre>
 > git clone 자신의 repository 주소
 > git remote add upstream 팀장 repository 주소
-> git remote -v 해서 정상적으로 주소가 등록되었는지 확인하기
+> git remote -v 친 후 정상적으로 주소가 등록되었는지 확인하기
 > </pre>
 > 3. introduction.md 파일 수정 후 자신의 repository 에 push 하기
 > <pre>
@@ -28,3 +28,5 @@
 > </pre>
 > 4. 자신의 repository에서 팀장의 repository로 pull requeset 날리기
 > 5. 카톡방에 팀장에게 알리기
+
+
