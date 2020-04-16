@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/48977911/79438933-28776700-800f-11ea-99fb-81e6fed5cedf.gif" width="10%">
 
 GITHUB : [@devdw98](https://github.com/devdw98)  
-NOTION introduction :  
+NOTION introduction :  [dw_notion_intro](https://www.notion.so/INTRO-fdb825c169084928b554711fccfac855)
 LIKE : 산책하기🏃‍♀️, 사람들 만나기🍻, 곱창, 닭발  
 DISLIKE : 가지볶음🍆
 
