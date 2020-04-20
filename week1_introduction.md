@@ -20,11 +20,11 @@ DISLIKE : 가지볶음🍆
 
 ---------------------
 ### 박수진  
-GITHUB :  
-NOTION introduction :  
-LIKE :  
-DISLIKE :  
-각오 :  
+GITHUB : [@soojinparkk](https://github.com/soojinparkk)  
+NOTION introduction : [soojin's_notion](https://www.notion.so/SOOJIN-s-9afdd65e447b492d84489d832e5a1d45)  
+LIKE : 유튜브로 알앤비 노래🎵 틀어놓고 노트북💻 하기  
+DISLIKE : 민트초코(🧡레인보우 샤베트💛 최고)  
+각오 : 이렇게 좋은 동아리에 들어와 좋은 사람들을 만나게 된 것 같아 영광입니다. 일 년 동안 열심히 하겠습니다ᕦ(ò_óˇ)ᕤ  
 
 ---------------
 ### 백지영  
