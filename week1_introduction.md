@@ -28,11 +28,11 @@ DISLIKE : 민트초코(🧡레인보우 샤베트💛 최고)
 
 ---------------
 ### 백지영  
-GITHUB :  
-NOTION introduction :  
-LIKE :  
-DISLIKE :  
-각오 :  
+GITHUB :  [@b00217](https://github.com/b00217)  
+NOTION introduction :  [JY_INTRO😊](https://www.notion.so/JY_INTRO-d8609ca4fdee44b485bb455caac24a90)  
+LIKE :  여행, 포테이토피자🍕, 과일🍊  
+DISLIKE : 피망 피클 파프리카 양파 (으악🤧)  
+각오 :  likelion에 들어와서 너무 좋아요!! 같이 열심히 하겠습니다😀
 
 ----------------
 
