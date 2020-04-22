@@ -25,7 +25,7 @@
 ### 3주차 (4/22 ~ 4/28)
 ####  REST API 에 대하여 조사 후 정리하여 올리기
 > 1. 각자 NOTION 에 정리 하기
-> 2. 각자 자신의 .md 파일을 repository에 생성하기 ex) dw_notion_urls.md
+> 2. 각자 자신의 .md 파일을 repository에 생성하기 ex) [dw_notion_urls.md](https://github.com/devdw98/likelion8th_assignment/blob/master/dw_notion_urls.md)
 > 3. 자신의 .md 파일 안에 NOTION 링크 올리기  
     (notion 링크는 can read 로 올려주셔야 확인 가능합니다!)  
 > 4. pull request 날리기
