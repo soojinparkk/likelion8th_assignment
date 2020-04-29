@@ -70,17 +70,19 @@ Header와 Body에 포함된 메세지는 메세지를 처리하기 위한 충분
 
 ## 3. REST 특징
 
+- 클라이언트-서버 구조
+
+    REST 서버는 API 제공, 클라이언트는 사용자 인증이나 컨텍스트(세션, 로그인 정보)등을 직접 관리하는 구조로 각각의 역할이 확실히 구분됨
+
 - 기존 웹 인프라 사용 가능
 
     HTTP를 그대로 사용하기 때문에 HTTP가 가진 캐싱 기능도 적용 가능함
 
+    → 잘 관리되는 캐싱은 클라이언트-서버 간 상호작용을 부분적으로 또는 완전하게 제거하여 scalability와 성능을 향상시킴
+
 - 무상태성
 
     서버에서 어떤 작업을 하기 위해 상태 정보를 기억할 필요가 없고, 들어온 요청에 대해 처리만 해주면 됨
-
-- 클라이언트-서버 구조
-
-    REST 서버는 API 제공, 클라이언트는 사용자 인증이나 컨텍스트(세션, 로그인 정보)등을 직접 관리하는 구조로 각각의 역할이 확실히 구분됨
 
 - 중간 매체 사용 가능
 
@@ -103,3 +105,13 @@ Header와 Body에 포함된 메세지는 메세지를 처리하기 위한 충분
 
 - URI는 정보의 자원을 표현
 - 자원에 대한 행위는 HTTP 메소드로 표현
+
+> 참고 자료
+
+[https://ko.wikipedia.org/wiki/REST](https://ko.wikipedia.org/wiki/REST)
+
+[https://medium.com/@dydrlaks/rest-api-3e424716bab](https://medium.com/@dydrlaks/rest-api-3e424716bab)
+
+[https://meetup.toast.com/posts/92](https://meetup.toast.com/posts/92)
+
+[https://brainbackdoor.tistory.com/53](https://brainbackdoor.tistory.com/53)
