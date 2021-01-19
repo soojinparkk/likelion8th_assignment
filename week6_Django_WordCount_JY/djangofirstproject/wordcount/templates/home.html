@@ -1,0 +1,9 @@
+<h1>안녕하세요, 여기서 글자를 세보세요!</h1>
+
+<a href="{%url 'about'%}">ABOUT</a>
+
+<form action="{%url 'result'%}">    <!--submit을 누르면 home이 향하는 곳-->
+    <textarea cols="40" rows="10" name="fulltext"></textarea>   <!--입력한 값 전체르르 fulltext로 지정-->
+    <br>
+    <input type="submit" value="Count">
+</form>
